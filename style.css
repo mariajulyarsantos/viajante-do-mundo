@@ -1,0 +1,31 @@
+body{ 
+    background-color: rgb(255, 124, 2);
+color: black;
+font-family:"Jaro", serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+margin: 10%;
+font-size: 40px;
+}
+
+button{ 
+    font-size: 20px;
+background-color: brown;
+color: aliceblue;
+font-family:"Jaro", serif;
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+
+
+
+
+
+
+
